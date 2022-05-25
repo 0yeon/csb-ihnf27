@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://0yeon.github.io/csb-ihnf27/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://0yeon.github.io/csb-ihnf27/static/js/main.ebdb4a35.chunk.js",
+    "main.js.map": "https://0yeon.github.io/csb-ihnf27/static/js/main.ebdb4a35.chunk.js.map",
+    "runtime-main.js": "https://0yeon.github.io/csb-ihnf27/static/js/runtime-main.db2aaf1d.js",
+    "runtime-main.js.map": "https://0yeon.github.io/csb-ihnf27/static/js/runtime-main.db2aaf1d.js.map",
+    "static/js/2.aaec8c79.chunk.js": "https://0yeon.github.io/csb-ihnf27/static/js/2.aaec8c79.chunk.js",
+    "static/js/2.aaec8c79.chunk.js.map": "https://0yeon.github.io/csb-ihnf27/static/js/2.aaec8c79.chunk.js.map",
+    "index.html": "https://0yeon.github.io/csb-ihnf27/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://0yeon.github.io/csb-ihnf27/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.aaec8c79.chunk.js.LICENSE.txt": "https://0yeon.github.io/csb-ihnf27/static/js/2.aaec8c79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db2aaf1d.js",
+    "static/js/2.aaec8c79.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ebdb4a35.chunk.js"
+  ]
+}
